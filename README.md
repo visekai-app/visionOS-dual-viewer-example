@@ -7,7 +7,7 @@ both side by side. Pure SwiftUI + AVFoundation, no dependencies.
 It works by flipping `kCMIOHardwarePropertyAllowScreenCaptureDevices`, which
 exposes the paired headset as an external **muxed** `AVCaptureDevice`.
 
-<img width="1468" height="828" alt="example" src="https://github.com/user-attachments/assets/15b51fc5-ccad-4dd2-a91d-d8e9e5a4da4d" />
+https://github.com/user-attachments/assets/b2fb36c2-b605-43f9-8395-f76d7ffbbb80
 
 ## Requirements
 
